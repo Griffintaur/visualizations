@@ -121,7 +121,7 @@ def Parse(fname,filetowrite,g,logger):
 ```
 
 
-![png](images\output_4_0.png)
+![png](images/output_4_0.png)
 
 
 
@@ -133,11 +133,11 @@ def Parse(fname,filetowrite,g,logger):
 ```
 
 
-![png](images\output_5_0.png)
+![png](images/output_5_0.png)
 
 
 
-![png](images\output_5_1.png)
+![png](images/output_5_1.png)
 
 
 
@@ -159,11 +159,11 @@ def Parse(fname,filetowrite,g,logger):
 ```
 
 
-![png](images\output_6_0.png)
+![png](images/output_6_0.png)
 
 
 
-![png](images\output_6_1.png)
+![png](images/output_6_1.png)
 
 
 
