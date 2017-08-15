@@ -1,6 +1,7 @@
-
 ## This contains visualization for the EEG Database Data Set 
 ## Below visualizations has been performed on the (smni97_eeg_data.tar.gz) dataset
+
+
 
 ```python
 import tarfile
@@ -181,7 +182,7 @@ plt.show()
 ```
 
 
-![png](images\output_7_0.png)
+![png](images/output_7_0.png)
 
 
 
@@ -328,22 +329,22 @@ print stats.ttest_ind(group1,group2)
     
 
 
-![png](images\output_10_1.png)
+![png](images/output_10_1.png)
 
 
 
-![png](images\output_10_2.png)
+![png](images/output_10_2.png)
 
 
     Ttest_relResult(statistic=array([ 60.43492541]), pvalue=array([ 0.]))
     
 
 
-![png](images\output_10_4.png)
+![png](images/output_10_4.png)
 
 
 
-![png](images\output_10_5.png)
+![png](images/output_10_5.png)
 
 
     Ttest_1sampResult(statistic=array([-177.81500464]), pvalue=array([ 0.]))
@@ -421,22 +422,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_1.png)
+![png](images/output_12_1.png)
 
 
 
-![png](images\output_12_2.png)
+![png](images/output_12_2.png)
 
 
     Ttest_relResult(statistic=array([-15.15950286]), pvalue=array([  8.20164346e-51]))
     
 
 
-![png](images\output_12_4.png)
+![png](images/output_12_4.png)
 
 
 
-![png](images\output_12_5.png)
+![png](images/output_12_5.png)
 
 
     Ttest_1sampResult(statistic=array([-75.03438855]), pvalue=array([ 0.]))
@@ -463,22 +464,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_7.png)
+![png](images/output_12_7.png)
 
 
 
-![png](images\output_12_8.png)
+![png](images/output_12_8.png)
 
 
     Ttest_relResult(statistic=array([ 34.30592315]), pvalue=array([  2.41326663e-232]))
     
 
 
-![png](images\output_12_10.png)
+![png](images/output_12_10.png)
 
 
 
-![png](images\output_12_11.png)
+![png](images/output_12_11.png)
 
 
     Ttest_1sampResult(statistic=array([ 15.86116317]), pvalue=array([  2.40503106e-55]))
@@ -505,22 +506,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_13.png)
+![png](images/output_12_13.png)
 
 
 
-![png](images\output_12_14.png)
+![png](images/output_12_14.png)
 
 
     Ttest_relResult(statistic=array([ 21.78583259]), pvalue=array([  1.04906185e-100]))
     
 
 
-![png](images\output_12_16.png)
+![png](images/output_12_16.png)
 
 
 
-![png](images\output_12_17.png)
+![png](images/output_12_17.png)
 
 
     Ttest_1sampResult(statistic=array([-54.60940762]), pvalue=array([ 0.]))
@@ -547,22 +548,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_19.png)
+![png](images/output_12_19.png)
 
 
 
-![png](images\output_12_20.png)
+![png](images/output_12_20.png)
 
 
     Ttest_relResult(statistic=array([-24.01267831]), pvalue=array([  7.91117439e-121]))
     
 
 
-![png](images\output_12_22.png)
+![png](images/output_12_22.png)
 
 
 
-![png](images\output_12_23.png)
+![png](images/output_12_23.png)
 
 
     Ttest_1sampResult(statistic=array([-39.23955969]), pvalue=array([  1.12687644e-294]))
@@ -589,22 +590,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_25.png)
+![png](images/output_12_25.png)
 
 
 
-![png](images\output_12_26.png)
+![png](images/output_12_26.png)
 
 
     Ttest_relResult(statistic=array([-16.32185628]), pvalue=array([  2.01784902e-58]))
     
 
 
-![png](images\output_12_28.png)
+![png](images/output_12_28.png)
 
 
 
-![png](images\output_12_29.png)
+![png](images/output_12_29.png)
 
 
     Ttest_1sampResult(statistic=array([-66.79279337]), pvalue=array([ 0.]))
@@ -631,22 +632,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_31.png)
+![png](images/output_12_31.png)
 
 
 
-![png](images\output_12_32.png)
+![png](images/output_12_32.png)
 
 
     Ttest_relResult(statistic=array([-8.79015061]), pvalue=array([  2.00832320e-18]))
     
 
 
-![png](images\output_12_34.png)
+![png](images/output_12_34.png)
 
 
 
-![png](images\output_12_35.png)
+![png](images/output_12_35.png)
 
 
     Ttest_1sampResult(statistic=array([-82.15793142]), pvalue=array([ 0.]))
@@ -673,22 +674,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_37.png)
+![png](images/output_12_37.png)
 
 
 
-![png](images\output_12_38.png)
+![png](images/output_12_38.png)
 
 
     Ttest_relResult(statistic=array([ 10.18758244]), pvalue=array([  3.82401694e-24]))
     
 
 
-![png](images\output_12_40.png)
+![png](images/output_12_40.png)
 
 
 
-![png](images\output_12_41.png)
+![png](images/output_12_41.png)
 
 
     Ttest_1sampResult(statistic=array([ 5.40452405]), pvalue=array([  6.79250912e-08]))
@@ -715,22 +716,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_43.png)
+![png](images/output_12_43.png)
 
 
 
-![png](images\output_12_44.png)
+![png](images/output_12_44.png)
 
 
     Ttest_relResult(statistic=array([ 3.65006055]), pvalue=array([ 0.00026479]))
     
 
 
-![png](images\output_12_46.png)
+![png](images/output_12_46.png)
 
 
 
-![png](images\output_12_47.png)
+![png](images/output_12_47.png)
 
 
     Ttest_1sampResult(statistic=array([-80.11506132]), pvalue=array([ 0.]))
@@ -757,22 +758,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_49.png)
+![png](images/output_12_49.png)
 
 
 
-![png](images\output_12_50.png)
+![png](images/output_12_50.png)
 
 
     Ttest_relResult(statistic=array([-1.49452709]), pvalue=array([ 0.13509954]))
     
 
 
-![png](images\output_12_52.png)
+![png](images/output_12_52.png)
 
 
 
-![png](images\output_12_53.png)
+![png](images/output_12_53.png)
 
 
     Ttest_1sampResult(statistic=array([-75.7589249]), pvalue=array([ 0.]))
@@ -799,22 +800,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_55.png)
+![png](images/output_12_55.png)
 
 
 
-![png](images\output_12_56.png)
+![png](images/output_12_56.png)
 
 
     Ttest_relResult(statistic=array([-4.52938111]), pvalue=array([  6.05006953e-06]))
     
 
 
-![png](images\output_12_58.png)
+![png](images/output_12_58.png)
 
 
 
-![png](images\output_12_59.png)
+![png](images/output_12_59.png)
 
 
     Ttest_1sampResult(statistic=array([-79.16574293]), pvalue=array([ 0.]))
@@ -841,22 +842,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_61.png)
+![png](images/output_12_61.png)
 
 
 
-![png](images\output_12_62.png)
+![png](images/output_12_62.png)
 
 
     Ttest_relResult(statistic=array([-2.29050206]), pvalue=array([ 0.0220327]))
     
 
 
-![png](images\output_12_64.png)
+![png](images/output_12_64.png)
 
 
 
-![png](images\output_12_65.png)
+![png](images/output_12_65.png)
 
 
     Ttest_1sampResult(statistic=array([-68.21745553]), pvalue=array([ 0.]))
@@ -883,22 +884,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_67.png)
+![png](images/output_12_67.png)
 
 
 
-![png](images\output_12_68.png)
+![png](images/output_12_68.png)
 
 
     Ttest_relResult(statistic=array([-9.79680636]), pvalue=array([  1.82892736e-22]))
     
 
 
-![png](images\output_12_70.png)
+![png](images/output_12_70.png)
 
 
 
-![png](images\output_12_71.png)
+![png](images/output_12_71.png)
 
 
     Ttest_1sampResult(statistic=array([-75.5505593]), pvalue=array([ 0.]))
@@ -925,22 +926,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_73.png)
+![png](images/output_12_73.png)
 
 
 
-![png](images\output_12_74.png)
+![png](images/output_12_74.png)
 
 
     Ttest_relResult(statistic=array([ 14.92337037]), pvalue=array([  2.49800673e-49]))
     
 
 
-![png](images\output_12_76.png)
+![png](images/output_12_76.png)
 
 
 
-![png](images\output_12_77.png)
+![png](images/output_12_77.png)
 
 
     Ttest_1sampResult(statistic=array([-33.38140938]), pvalue=array([  3.13355799e-221]))
@@ -967,22 +968,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_79.png)
+![png](images/output_12_79.png)
 
 
 
-![png](images\output_12_80.png)
+![png](images/output_12_80.png)
 
 
     Ttest_relResult(statistic=array([-11.31069414]), pvalue=array([  2.58153648e-29]))
     
 
 
-![png](images\output_12_82.png)
+![png](images/output_12_82.png)
 
 
 
-![png](images\output_12_83.png)
+![png](images/output_12_83.png)
 
 
     Ttest_1sampResult(statistic=array([-53.54801139]), pvalue=array([ 0.]))
@@ -1009,22 +1010,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_85.png)
+![png](images/output_12_85.png)
 
 
 
-![png](images\output_12_86.png)
+![png](images/output_12_86.png)
 
 
     Ttest_relResult(statistic=array([ 20.89842295]), pvalue=array([  3.89216277e-93]))
     
 
 
-![png](images\output_12_88.png)
+![png](images/output_12_88.png)
 
 
 
-![png](images\output_12_89.png)
+![png](images/output_12_89.png)
 
 
     Ttest_1sampResult(statistic=array([-41.05817765]), pvalue=array([ 0.]))
@@ -1051,22 +1052,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_91.png)
+![png](images/output_12_91.png)
 
 
 
-![png](images\output_12_92.png)
+![png](images/output_12_92.png)
 
 
     Ttest_relResult(statistic=array([ 48.92302074]), pvalue=array([ 0.]))
     
 
 
-![png](images\output_12_94.png)
+![png](images/output_12_94.png)
 
 
 
-![png](images\output_12_95.png)
+![png](images/output_12_95.png)
 
 
     Ttest_1sampResult(statistic=array([ 26.08336405]), pvalue=array([  6.36124863e-141]))
@@ -1093,22 +1094,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_97.png)
+![png](images/output_12_97.png)
 
 
 
-![png](images\output_12_98.png)
+![png](images/output_12_98.png)
 
 
     Ttest_relResult(statistic=array([ 10.85725757]), pvalue=array([  3.63486060e-27]))
     
 
 
-![png](images\output_12_100.png)
+![png](images/output_12_100.png)
 
 
 
-![png](images\output_12_101.png)
+![png](images/output_12_101.png)
 
 
     Ttest_1sampResult(statistic=array([ 5.75242118]), pvalue=array([  9.30813218e-09]))
@@ -1135,22 +1136,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_103.png)
+![png](images/output_12_103.png)
 
 
 
-![png](images\output_12_104.png)
+![png](images/output_12_104.png)
 
 
     Ttest_relResult(statistic=array([-0.4924086]), pvalue=array([ 0.62245164]))
     
 
 
-![png](images\output_12_106.png)
+![png](images/output_12_106.png)
 
 
 
-![png](images\output_12_107.png)
+![png](images/output_12_107.png)
 
 
     Ttest_1sampResult(statistic=array([-67.72154777]), pvalue=array([ 0.]))
@@ -1177,22 +1178,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_109.png)
+![png](images/output_12_109.png)
 
 
 
-![png](images\output_12_110.png)
+![png](images/output_12_110.png)
 
 
     Ttest_relResult(statistic=array([ 2.12074757]), pvalue=array([ 0.033991]))
     
 
 
-![png](images\output_12_112.png)
+![png](images/output_12_112.png)
 
 
 
-![png](images\output_12_113.png)
+![png](images/output_12_113.png)
 
 
     Ttest_1sampResult(statistic=array([-76.94625056]), pvalue=array([ 0.]))
@@ -1219,22 +1220,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_115.png)
+![png](images/output_12_115.png)
 
 
 
-![png](images\output_12_116.png)
+![png](images/output_12_116.png)
 
 
     Ttest_relResult(statistic=array([ 7.41293584]), pvalue=array([  1.43773197e-13]))
     
 
 
-![png](images\output_12_118.png)
+![png](images/output_12_118.png)
 
 
 
-![png](images\output_12_119.png)
+![png](images/output_12_119.png)
 
 
     Ttest_1sampResult(statistic=array([ 1.2198114]), pvalue=array([ 0.22259257]))
@@ -1261,22 +1262,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_121.png)
+![png](images/output_12_121.png)
 
 
 
-![png](images\output_12_122.png)
+![png](images/output_12_122.png)
 
 
     Ttest_relResult(statistic=array([ 7.94010462]), pvalue=array([  2.46394578e-15]))
     
 
 
-![png](images\output_12_124.png)
+![png](images/output_12_124.png)
 
 
 
-![png](images\output_12_125.png)
+![png](images/output_12_125.png)
 
 
     Ttest_1sampResult(statistic=array([ 6.7172861]), pvalue=array([  2.05267217e-11]))
@@ -1303,22 +1304,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_127.png)
+![png](images/output_12_127.png)
 
 
 
-![png](images\output_12_128.png)
+![png](images/output_12_128.png)
 
 
     Ttest_relResult(statistic=array([ 2.55418756]), pvalue=array([ 0.0106723]))
     
 
 
-![png](images\output_12_130.png)
+![png](images/output_12_130.png)
 
 
 
-![png](images\output_12_131.png)
+![png](images/output_12_131.png)
 
 
     Ttest_1sampResult(statistic=array([-25.74639171]), pvalue=array([  1.44935064e-137]))
@@ -1345,22 +1346,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_133.png)
+![png](images/output_12_133.png)
 
 
 
-![png](images\output_12_134.png)
+![png](images/output_12_134.png)
 
 
     Ttest_relResult(statistic=array([ 19.7274548]), pvalue=array([  1.48667243e-83]))
     
 
 
-![png](images\output_12_136.png)
+![png](images/output_12_136.png)
 
 
 
-![png](images\output_12_137.png)
+![png](images/output_12_137.png)
 
 
     Ttest_1sampResult(statistic=array([ 4.90942145]), pvalue=array([  9.41833404e-07]))
@@ -1387,22 +1388,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_139.png)
+![png](images/output_12_139.png)
 
 
 
-![png](images\output_12_140.png)
+![png](images/output_12_140.png)
 
 
     Ttest_relResult(statistic=array([ 2.53560083]), pvalue=array([ 0.01125496]))
     
 
 
-![png](images\output_12_142.png)
+![png](images/output_12_142.png)
 
 
 
-![png](images\output_12_143.png)
+![png](images/output_12_143.png)
 
 
     Ttest_1sampResult(statistic=array([-16.65539599]), pvalue=array([  1.06813243e-60]))
@@ -1429,22 +1430,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_145.png)
+![png](images/output_12_145.png)
 
 
 
-![png](images\output_12_146.png)
+![png](images/output_12_146.png)
 
 
     Ttest_relResult(statistic=array([ 12.16582738]), pvalue=array([  1.36947693e-33]))
     
 
 
-![png](images\output_12_148.png)
+![png](images/output_12_148.png)
 
 
 
-![png](images\output_12_149.png)
+![png](images/output_12_149.png)
 
 
     Ttest_1sampResult(statistic=array([-1.28088249]), pvalue=array([ 0.20029297]))
@@ -1471,22 +1472,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_151.png)
+![png](images/output_12_151.png)
 
 
 
-![png](images\output_12_152.png)
+![png](images/output_12_152.png)
 
 
     Ttest_relResult(statistic=array([ 20.42278155]), pvalue=array([  3.45680316e-89]))
     
 
 
-![png](images\output_12_154.png)
+![png](images/output_12_154.png)
 
 
 
-![png](images\output_12_155.png)
+![png](images/output_12_155.png)
 
 
     Ttest_1sampResult(statistic=array([-47.71483]), pvalue=array([ 0.]))
@@ -1513,22 +1514,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_157.png)
+![png](images/output_12_157.png)
 
 
 
-![png](images\output_12_158.png)
+![png](images/output_12_158.png)
 
 
     Ttest_relResult(statistic=array([ 9.25772074]), pvalue=array([  3.00250238e-20]))
     
 
 
-![png](images\output_12_160.png)
+![png](images/output_12_160.png)
 
 
 
-![png](images\output_12_161.png)
+![png](images/output_12_161.png)
 
 
     Ttest_1sampResult(statistic=array([-48.27969529]), pvalue=array([ 0.]))
@@ -1555,22 +1556,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_163.png)
+![png](images/output_12_163.png)
 
 
 
-![png](images\output_12_164.png)
+![png](images/output_12_164.png)
 
 
     Ttest_relResult(statistic=array([ 17.32881745]), pvalue=array([  2.03380639e-65]))
     
 
 
-![png](images\output_12_166.png)
+![png](images/output_12_166.png)
 
 
 
-![png](images\output_12_167.png)
+![png](images/output_12_167.png)
 
 
     Ttest_1sampResult(statistic=array([-11.97221427]), pvalue=array([  1.34890663e-32]))
@@ -1597,22 +1598,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_169.png)
+![png](images/output_12_169.png)
 
 
 
-![png](images\output_12_170.png)
+![png](images/output_12_170.png)
 
 
     Ttest_relResult(statistic=array([-8.93391157]), pvalue=array([  5.63802840e-19]))
     
 
 
-![png](images\output_12_172.png)
+![png](images/output_12_172.png)
 
 
 
-![png](images\output_12_173.png)
+![png](images/output_12_173.png)
 
 
     Ttest_1sampResult(statistic=array([-62.81315992]), pvalue=array([ 0.]))
@@ -1639,22 +1640,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_175.png)
+![png](images/output_12_175.png)
 
 
 
-![png](images\output_12_176.png)
+![png](images/output_12_176.png)
 
 
     Ttest_relResult(statistic=array([ 27.09900592]), pvalue=array([  3.04692505e-151]))
     
 
 
-![png](images\output_12_178.png)
+![png](images/output_12_178.png)
 
 
 
-![png](images\output_12_179.png)
+![png](images/output_12_179.png)
 
 
     Ttest_1sampResult(statistic=array([-2.75614158]), pvalue=array([ 0.00586948]))
@@ -1681,22 +1682,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_181.png)
+![png](images/output_12_181.png)
 
 
 
-![png](images\output_12_182.png)
+![png](images/output_12_182.png)
 
 
     Ttest_relResult(statistic=array([ 41.56198813]), pvalue=array([ 0.]))
     
 
 
-![png](images\output_12_184.png)
+![png](images/output_12_184.png)
 
 
 
-![png](images\output_12_185.png)
+![png](images/output_12_185.png)
 
 
     Ttest_1sampResult(statistic=array([ 21.09979363]), pvalue=array([  7.86264368e-95]))
@@ -1723,22 +1724,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_187.png)
+![png](images/output_12_187.png)
 
 
 
-![png](images\output_12_188.png)
+![png](images/output_12_188.png)
 
 
     Ttest_relResult(statistic=array([ 30.17489405]), pvalue=array([  3.03551601e-184]))
     
 
 
-![png](images\output_12_190.png)
+![png](images/output_12_190.png)
 
 
 
-![png](images\output_12_191.png)
+![png](images/output_12_191.png)
 
 
     Ttest_1sampResult(statistic=array([-20.01514587]), pvalue=array([  7.26850159e-86]))
@@ -1765,22 +1766,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_193.png)
+![png](images/output_12_193.png)
 
 
 
-![png](images\output_12_194.png)
+![png](images/output_12_194.png)
 
 
     Ttest_relResult(statistic=array([ 30.19974581]), pvalue=array([  1.60455273e-184]))
     
 
 
-![png](images\output_12_196.png)
+![png](images/output_12_196.png)
 
 
 
-![png](images\output_12_197.png)
+![png](images/output_12_197.png)
 
 
     Ttest_1sampResult(statistic=array([-5.30765331]), pvalue=array([  1.15730447e-07]))
@@ -1807,22 +1808,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_199.png)
+![png](images/output_12_199.png)
 
 
 
-![png](images\output_12_200.png)
+![png](images/output_12_200.png)
 
 
     Ttest_relResult(statistic=array([ 21.60260431]), pvalue=array([  4.02816725e-99]))
     
 
 
-![png](images\output_12_202.png)
+![png](images/output_12_202.png)
 
 
 
-![png](images\output_12_203.png)
+![png](images/output_12_203.png)
 
 
     Ttest_1sampResult(statistic=array([-19.41564492]), pvalue=array([  4.40982652e-81]))
@@ -1849,22 +1850,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_205.png)
+![png](images/output_12_205.png)
 
 
 
-![png](images\output_12_206.png)
+![png](images/output_12_206.png)
 
 
     Ttest_relResult(statistic=array([ 23.77554604]), pvalue=array([  1.30595566e-118]))
     
 
 
-![png](images\output_12_208.png)
+![png](images/output_12_208.png)
 
 
 
-![png](images\output_12_209.png)
+![png](images/output_12_209.png)
 
 
     Ttest_1sampResult(statistic=array([-27.5253227]), pvalue=array([  1.15981171e-155]))
@@ -1891,22 +1892,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_211.png)
+![png](images/output_12_211.png)
 
 
 
-![png](images\output_12_212.png)
+![png](images/output_12_212.png)
 
 
     Ttest_relResult(statistic=array([-9.01999145]), pvalue=array([  2.61054754e-19]))
     
 
 
-![png](images\output_12_214.png)
+![png](images/output_12_214.png)
 
 
 
-![png](images\output_12_215.png)
+![png](images/output_12_215.png)
 
 
     Ttest_1sampResult(statistic=array([-75.88343572]), pvalue=array([ 0.]))
@@ -1933,22 +1934,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_217.png)
+![png](images/output_12_217.png)
 
 
 
-![png](images\output_12_218.png)
+![png](images/output_12_218.png)
 
 
     Ttest_relResult(statistic=array([-1.31836345]), pvalue=array([ 0.18744099]))
     
 
 
-![png](images\output_12_220.png)
+![png](images/output_12_220.png)
 
 
 
-![png](images\output_12_221.png)
+![png](images/output_12_221.png)
 
 
     Ttest_1sampResult(statistic=array([-38.01786438]), pvalue=array([  8.53861232e-279]))
@@ -1975,22 +1976,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_223.png)
+![png](images/output_12_223.png)
 
 
 
-![png](images\output_12_224.png)
+![png](images/output_12_224.png)
 
 
     Ttest_relResult(statistic=array([-2.58815503]), pvalue=array([ 0.00967643]))
     
 
 
-![png](images\output_12_226.png)
+![png](images/output_12_226.png)
 
 
 
-![png](images\output_12_227.png)
+![png](images/output_12_227.png)
 
 
     Ttest_1sampResult(statistic=array([-92.0083773]), pvalue=array([ 0.]))
@@ -2017,22 +2018,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_229.png)
+![png](images/output_12_229.png)
 
 
 
-![png](images\output_12_230.png)
+![png](images/output_12_230.png)
 
 
     Ttest_relResult(statistic=array([-1.98999738]), pvalue=array([ 0.04664433]))
     
 
 
-![png](images\output_12_232.png)
+![png](images/output_12_232.png)
 
 
 
-![png](images\output_12_233.png)
+![png](images/output_12_233.png)
 
 
     Ttest_1sampResult(statistic=array([-73.11134331]), pvalue=array([ 0.]))
@@ -2059,22 +2060,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_235.png)
+![png](images/output_12_235.png)
 
 
 
-![png](images\output_12_236.png)
+![png](images/output_12_236.png)
 
 
     Ttest_relResult(statistic=array([ 7.28680314]), pvalue=array([  3.65773123e-13]))
     
 
 
-![png](images\output_12_238.png)
+![png](images/output_12_238.png)
 
 
 
-![png](images\output_12_239.png)
+![png](images/output_12_239.png)
 
 
     Ttest_1sampResult(statistic=array([-73.70942396]), pvalue=array([ 0.]))
@@ -2101,22 +2102,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_241.png)
+![png](images/output_12_241.png)
 
 
 
-![png](images\output_12_242.png)
+![png](images/output_12_242.png)
 
 
     Ttest_relResult(statistic=array([-9.28365966]), pvalue=array([  2.36376336e-20]))
     
 
 
-![png](images\output_12_244.png)
+![png](images/output_12_244.png)
 
 
 
-![png](images\output_12_245.png)
+![png](images/output_12_245.png)
 
 
     Ttest_1sampResult(statistic=array([-71.45422252]), pvalue=array([ 0.]))
@@ -2143,22 +2144,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_247.png)
+![png](images/output_12_247.png)
 
 
 
-![png](images\output_12_248.png)
+![png](images/output_12_248.png)
 
 
     Ttest_relResult(statistic=array([-2.72814965]), pvalue=array([ 0.00639081]))
     
 
 
-![png](images\output_12_250.png)
+![png](images/output_12_250.png)
 
 
 
-![png](images\output_12_251.png)
+![png](images/output_12_251.png)
 
 
     Ttest_1sampResult(statistic=array([-58.41399956]), pvalue=array([ 0.]))
@@ -2185,22 +2186,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_253.png)
+![png](images/output_12_253.png)
 
 
 
-![png](images\output_12_254.png)
+![png](images/output_12_254.png)
 
 
     Ttest_relResult(statistic=array([ 6.92191912]), pvalue=array([  5.00386321e-12]))
     
 
 
-![png](images\output_12_256.png)
+![png](images/output_12_256.png)
 
 
 
-![png](images\output_12_257.png)
+![png](images/output_12_257.png)
 
 
     Ttest_1sampResult(statistic=array([-62.07460669]), pvalue=array([ 0.]))
@@ -2227,22 +2228,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_259.png)
+![png](images/output_12_259.png)
 
 
 
-![png](images\output_12_260.png)
+![png](images/output_12_260.png)
 
 
     Ttest_relResult(statistic=array([ 26.26872864]), pvalue=array([  8.75702414e-143]))
     
 
 
-![png](images\output_12_262.png)
+![png](images/output_12_262.png)
 
 
 
-![png](images\output_12_263.png)
+![png](images/output_12_263.png)
 
 
     Ttest_1sampResult(statistic=array([ 13.80476644]), pvalue=array([  1.37144599e-42]))
@@ -2269,22 +2270,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_265.png)
+![png](images/output_12_265.png)
 
 
 
-![png](images\output_12_266.png)
+![png](images/output_12_266.png)
 
 
     Ttest_relResult(statistic=array([ 3.23518243]), pvalue=array([ 0.00122338]))
     
 
 
-![png](images\output_12_268.png)
+![png](images/output_12_268.png)
 
 
 
-![png](images\output_12_269.png)
+![png](images/output_12_269.png)
 
 
     Ttest_1sampResult(statistic=array([-59.28365359]), pvalue=array([ 0.]))
@@ -2311,22 +2312,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_271.png)
+![png](images/output_12_271.png)
 
 
 
-![png](images\output_12_272.png)
+![png](images/output_12_272.png)
 
 
     Ttest_relResult(statistic=array([ 1.37218529]), pvalue=array([ 0.17006589]))
     
 
 
-![png](images\output_12_274.png)
+![png](images/output_12_274.png)
 
 
 
-![png](images\output_12_275.png)
+![png](images/output_12_275.png)
 
 
     Ttest_1sampResult(statistic=array([ 4.08266633]), pvalue=array([  4.52007477e-05]))
@@ -2353,22 +2354,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_277.png)
+![png](images/output_12_277.png)
 
 
 
-![png](images\output_12_278.png)
+![png](images/output_12_278.png)
 
 
     Ttest_relResult(statistic=array([ 10.19095024]), pvalue=array([  3.69636651e-24]))
     
 
 
-![png](images\output_12_280.png)
+![png](images/output_12_280.png)
 
 
 
-![png](images\output_12_281.png)
+![png](images/output_12_281.png)
 
 
     Ttest_1sampResult(statistic=array([ 5.72452719]), pvalue=array([  1.09627799e-08]))
@@ -2395,22 +2396,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_283.png)
+![png](images/output_12_283.png)
 
 
 
-![png](images\output_12_284.png)
+![png](images/output_12_284.png)
 
 
     Ttest_relResult(statistic=array([ 29.1717667]), pvalue=array([  3.34483756e-173]))
     
 
 
-![png](images\output_12_286.png)
+![png](images/output_12_286.png)
 
 
 
-![png](images\output_12_287.png)
+![png](images/output_12_287.png)
 
 
     Ttest_1sampResult(statistic=array([ 7.26335826]), pvalue=array([  4.34375450e-13]))
@@ -2437,22 +2438,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_289.png)
+![png](images/output_12_289.png)
 
 
 
-![png](images\output_12_290.png)
+![png](images/output_12_290.png)
 
 
     Ttest_relResult(statistic=array([ 32.71873294]), pvalue=array([  2.19830145e-213]))
     
 
 
-![png](images\output_12_292.png)
+![png](images/output_12_292.png)
 
 
 
-![png](images\output_12_293.png)
+![png](images/output_12_293.png)
 
 
     Ttest_1sampResult(statistic=array([ 16.48817727]), pvalue=array([  1.49607624e-59]))
@@ -2479,22 +2480,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_295.png)
+![png](images/output_12_295.png)
 
 
 
-![png](images\output_12_296.png)
+![png](images/output_12_296.png)
 
 
     Ttest_relResult(statistic=array([ 23.3523825]), pvalue=array([  1.07070598e-114]))
     
 
 
-![png](images\output_12_298.png)
+![png](images/output_12_298.png)
 
 
 
-![png](images\output_12_299.png)
+![png](images/output_12_299.png)
 
 
     Ttest_1sampResult(statistic=array([-2.43338527]), pvalue=array([ 0.01499237]))
@@ -2521,22 +2522,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_301.png)
+![png](images/output_12_301.png)
 
 
 
-![png](images\output_12_302.png)
+![png](images/output_12_302.png)
 
 
     Ttest_relResult(statistic=array([ 26.81820072]), pvalue=array([  2.32663795e-148]))
     
 
 
-![png](images\output_12_304.png)
+![png](images/output_12_304.png)
 
 
 
-![png](images\output_12_305.png)
+![png](images/output_12_305.png)
 
 
     Ttest_1sampResult(statistic=array([ 6.51579057]), pvalue=array([  7.92466841e-11]))
@@ -2563,22 +2564,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_307.png)
+![png](images/output_12_307.png)
 
 
 
-![png](images\output_12_308.png)
+![png](images/output_12_308.png)
 
 
     Ttest_relResult(statistic=array([ 21.56193017]), pvalue=array([  9.02190563e-99]))
     
 
 
-![png](images\output_12_310.png)
+![png](images/output_12_310.png)
 
 
 
-![png](images\output_12_311.png)
+![png](images/output_12_311.png)
 
 
     Ttest_1sampResult(statistic=array([-15.26354605]), pvalue=array([  1.79255030e-51]))
@@ -2605,22 +2606,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_313.png)
+![png](images/output_12_313.png)
 
 
 
-![png](images\output_12_314.png)
+![png](images/output_12_314.png)
 
 
     Ttest_relResult(statistic=array([ 22.04695836]), pvalue=array([  5.54456465e-103]))
     
 
 
-![png](images\output_12_316.png)
+![png](images/output_12_316.png)
 
 
 
-![png](images\output_12_317.png)
+![png](images/output_12_317.png)
 
 
     Ttest_1sampResult(statistic=array([-6.59287334]), pvalue=array([  4.74831112e-11]))
@@ -2647,22 +2648,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_319.png)
+![png](images/output_12_319.png)
 
 
 
-![png](images\output_12_320.png)
+![png](images/output_12_320.png)
 
 
     Ttest_relResult(statistic=array([ 18.01372265]), pvalue=array([  2.18038919e-70]))
     
 
 
-![png](images\output_12_322.png)
+![png](images/output_12_322.png)
 
 
 
-![png](images\output_12_323.png)
+![png](images/output_12_323.png)
 
 
     Ttest_1sampResult(statistic=array([-23.1294039]), pvalue=array([  1.17278917e-112]))
@@ -2689,22 +2690,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_325.png)
+![png](images/output_12_325.png)
 
 
 
-![png](images\output_12_326.png)
+![png](images/output_12_326.png)
 
 
     Ttest_relResult(statistic=array([ 13.95806707]), pvalue=array([  1.74558684e-43]))
     
 
 
-![png](images\output_12_328.png)
+![png](images/output_12_328.png)
 
 
 
-![png](images\output_12_329.png)
+![png](images/output_12_329.png)
 
 
     Ttest_1sampResult(statistic=array([-13.79801464]), pvalue=array([  1.50106311e-42]))
@@ -2731,22 +2732,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_331.png)
+![png](images/output_12_331.png)
 
 
 
-![png](images\output_12_332.png)
+![png](images/output_12_332.png)
 
 
     Ttest_relResult(statistic=array([ 20.74809447]), pvalue=array([  7.02080932e-92]))
     
 
 
-![png](images\output_12_334.png)
+![png](images/output_12_334.png)
 
 
 
-![png](images\output_12_335.png)
+![png](images/output_12_335.png)
 
 
     Ttest_1sampResult(statistic=array([ 8.3810687]), pvalue=array([  6.70473608e-17]))
@@ -2773,22 +2774,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_337.png)
+![png](images/output_12_337.png)
 
 
 
-![png](images\output_12_338.png)
+![png](images/output_12_338.png)
 
 
     Ttest_relResult(statistic=array([ 18.22883975]), pvalue=array([  5.53112654e-72]))
     
 
 
-![png](images\output_12_340.png)
+![png](images/output_12_340.png)
 
 
 
-![png](images\output_12_341.png)
+![png](images/output_12_341.png)
 
 
     Ttest_1sampResult(statistic=array([ 8.22689458]), pvalue=array([  2.41400460e-16]))
@@ -2815,22 +2816,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_343.png)
+![png](images/output_12_343.png)
 
 
 
-![png](images\output_12_344.png)
+![png](images/output_12_344.png)
 
 
     Ttest_relResult(statistic=array([ 13.22538309]), pvalue=array([  2.74441321e-39]))
     
 
 
-![png](images\output_12_346.png)
+![png](images/output_12_346.png)
 
 
 
-![png](images\output_12_347.png)
+![png](images/output_12_347.png)
 
 
     Ttest_1sampResult(statistic=array([-39.97662866]), pvalue=array([  2.19393615e-304]))
@@ -2857,22 +2858,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_349.png)
+![png](images/output_12_349.png)
 
 
 
-![png](images\output_12_350.png)
+![png](images/output_12_350.png)
 
 
     Ttest_relResult(statistic=array([-20.72594542]), pvalue=array([  1.07356518e-91]))
     
 
 
-![png](images\output_12_352.png)
+![png](images/output_12_352.png)
 
 
 
-![png](images\output_12_353.png)
+![png](images/output_12_353.png)
 
 
     Ttest_1sampResult(statistic=array([-54.01143429]), pvalue=array([ 0.]))
@@ -2899,22 +2900,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_355.png)
+![png](images/output_12_355.png)
 
 
 
-![png](images\output_12_356.png)
+![png](images/output_12_356.png)
 
 
     Ttest_relResult(statistic=array([-4.64165371]), pvalue=array([  3.54264860e-06]))
     
 
 
-![png](images\output_12_358.png)
+![png](images/output_12_358.png)
 
 
 
-![png](images\output_12_359.png)
+![png](images/output_12_359.png)
 
 
     Ttest_1sampResult(statistic=array([-30.27449994]), pvalue=array([  2.35260192e-185]))
@@ -2941,22 +2942,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_361.png)
+![png](images/output_12_361.png)
 
 
 
-![png](images\output_12_362.png)
+![png](images/output_12_362.png)
 
 
     Ttest_relResult(statistic=array([-8.45394553]), pvalue=array([  3.63074240e-17]))
     
 
 
-![png](images\output_12_364.png)
+![png](images/output_12_364.png)
 
 
 
-![png](images\output_12_365.png)
+![png](images/output_12_365.png)
 
 
     Ttest_1sampResult(statistic=array([-59.94872545]), pvalue=array([ 0.]))
@@ -2983,22 +2984,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_367.png)
+![png](images/output_12_367.png)
 
 
 
-![png](images\output_12_368.png)
+![png](images/output_12_368.png)
 
 
     Ttest_relResult(statistic=array([-1.14662982]), pvalue=array([ 0.25158824]))
     
 
 
-![png](images\output_12_370.png)
+![png](images/output_12_370.png)
 
 
 
-![png](images\output_12_371.png)
+![png](images/output_12_371.png)
 
 
     Ttest_1sampResult(statistic=array([-58.71997775]), pvalue=array([ 0.]))
@@ -3025,22 +3026,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_373.png)
+![png](images/output_12_373.png)
 
 
 
-![png](images\output_12_374.png)
+![png](images/output_12_374.png)
 
 
     Ttest_relResult(statistic=array([-6.3542085]), pvalue=array([  2.27653152e-10]))
     
 
 
-![png](images\output_12_376.png)
+![png](images/output_12_376.png)
 
 
 
-![png](images\output_12_377.png)
+![png](images/output_12_377.png)
 
 
     Ttest_1sampResult(statistic=array([-47.74101749]), pvalue=array([ 0.]))
@@ -3067,22 +3068,22 @@ for sensorPosition in sensorPositions:
     
 
 
-![png](images\output_12_379.png)
+![png](images/output_12_379.png)
 
 
 
-![png](images\output_12_380.png)
+![png](images/output_12_380.png)
 
 
     Ttest_relResult(statistic=array([ 8.17098543]), pvalue=array([  3.82012304e-16]))
     
 
 
-![png](images\output_12_382.png)
+![png](images/output_12_382.png)
 
 
 
-![png](images\output_12_383.png)
+![png](images/output_12_383.png)
 
 
     Ttest_1sampResult(statistic=array([-51.86836428]), pvalue=array([ 0.]))
@@ -3091,4 +3092,3 @@ for sensorPosition in sensorPositions:
 
 <p>Here we can that for sensor position P3,FZ,Y,PZ,FCZ,C6 we have some significant difference between the two groups and their their distriutions
 We have almost the graph of both group for all sensor positions to have a look and understand  the differences between the two and also the describtion of both groups have been printed</p>
-
